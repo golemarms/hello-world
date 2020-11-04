@@ -1,2 +1,3 @@
 # hello-world
-activity
+
+These are some changes I've made to the README.
